@@ -1,10 +1,17 @@
 # To-Do-List
 # React-Html-css-javascript
-# Steps 
-# Unzip the file
-# install vscode 
-# add file to workspace
-# open terminal
-# cd to project directory
-# npm install
-# npm start
+
+👉 Download the zip file
+
+👉 Extract the file and open add to workspace  in visual studio code
+
+👉 Run this command
+  
+    npm install
+
+👉 Run this command for Start Project
+  
+    npm run start
+
+👉 Run this command for Start Server
+  
